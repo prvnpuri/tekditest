@@ -6,10 +6,20 @@
 
  	$ git clone https://github.com/prvnpuri/tekditest.git
 
-        2. update laravel dependecies 
+      	2. update laravel dependecies 
 
 	$ composer update
 
 	3. run server	
 
 	$ ./artisan serve
+
+
+## 2. Rest api detals
+
+	- url : http://localhost:8000/api/flattendToHierachical
+	- Method : POST
+	- PAYLOD: JSON
+		
+
+	
