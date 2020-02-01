@@ -15,7 +15,7 @@
 	$ ./artisan serve
 
 
-## 2. Rest api detals
+## 2. Rest api details for flattend To Hierachical
 
 	- url : http://localhost:8000/api/flattendToHierachical
 	- Method : POST
